@@ -1,7 +1,7 @@
 // Constants to configure most aspects of the game
 
 // Number of files to be collected
-export const NUM_FILES = 0;
+export const NUM_FILES = 5;
 
 // Difficulty levels
 export const DIFFICULTY = {
