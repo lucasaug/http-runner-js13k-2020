@@ -22,6 +22,8 @@ To run the project just run
 npm start
 ```
 
+The game will be running at localhost:8080
+
 To bundle eveything into a single HTML file and compress it, run
 ```
 npm run build
